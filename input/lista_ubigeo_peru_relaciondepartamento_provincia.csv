@@ -1,0 +1,197 @@
+DEPARTAMENTO;PROVINCIA;UBIGEO
+Amazonas;Chachapoyas;0101XX
+Amazonas;Bagua;0102XX
+Amazonas;Bongará;0103XX
+Amazonas;Condorcanqui;0104XX
+Amazonas;Luya;0105XX
+Amazonas;Rodríguez;0106XX
+Amazonas;Utcubamba;0107XX
+Áncash;Huaraz;0201XX
+Áncash;Aija;0202XX
+Áncash;Antonio;0203XX
+Áncash;Asunción;0204XX
+Áncash;Bolognesi;0205XX
+Áncash;Carhuaz;0206XX
+Áncash;Carlos;0207XX
+Áncash;Casma;0208XX
+Áncash;Corongo;0209XX
+Áncash;Huari;0210XX
+Áncash;Huarmey;0211XX
+Áncash;Huaylas;0212XX
+Áncash;Mariscal;0213XX
+Áncash;Ocros;0214XX
+Áncash;Pallasca;0215XX
+Áncash;Pomabamba;0216XX
+Áncash;Recuay;0217XX
+Áncash;Santa;0218XX
+Áncash;Sihuas;0219XX
+Áncash;Yungay;0220XX
+Apurímac;Abancay;0301XX
+Apurímac;Andahuaylas;0302XX
+Apurímac;Antabamba;0303XX
+Apurímac;Aymaraes;0304XX
+Apurímac;Cotabambas;0305XX
+Apurímac;Chincheros;0306XX
+Apurímac;Grau;0307XX
+Arequipa;Arequipa;0401XX
+Arequipa;Camaná;0402XX
+Arequipa;Caravelí;0403XX
+Arequipa;Castilla;0404XX
+Arequipa;Caylloma;0405XX
+Arequipa;Condesuyos;0406XX
+Arequipa;Islay;0407XX
+Arequipa;La;0408XX
+Ayacucho;Huamanga;0501XX
+Ayacucho;Cangallo;0502XX
+Ayacucho;Huanca;0503XX
+Ayacucho;Huanta;0504XX
+Ayacucho;La;0505XX
+Ayacucho;Lucanas;0506XX
+Ayacucho;Parinacochas;0507XX
+Ayacucho;Pàucar;0508XX
+Ayacucho;Sucre;0509XX
+Ayacucho;Víctor;0510XX
+Ayacucho;Vilcas;0511XX
+Cajamarca;Cajamarca;0601XX
+Cajamarca;Cajabamba;0602XX
+Cajamarca;Celendín;0603XX
+Cajamarca;Chota;0604XX
+Cajamarca;Contumazá;0605XX
+Cajamarca;Cutervo;0606XX
+Cajamarca;Hualgayoc;0607XX
+Cajamarca;Jaén;0608XX
+Cajamarca;San;0609XX
+Cajamarca;San;0610XX
+Cajamarca;San;0611XX
+Cajamarca;San;0612XX
+Cajamarca;Santa;0613XX
+Callao;Prov.;0701XX
+Cusco;Cusco;0801XX
+Cusco;Acomayo;0802XX
+Cusco;Anta;0803XX
+Cusco;Calca;0804XX
+Cusco;Canas;0805XX
+Cusco;Canchis;0806XX
+Cusco;Chumbivilcas;0807XX
+Cusco;Espinar;0808XX
+Cusco;La;0809XX
+Cusco;Paruro;0810XX
+Cusco;Paucartambo;0811XX
+Cusco;Quispicanchi;0812XX
+Cusco;Urubamba;0813XX
+Huancavelica;Huancavelica;0901XX
+Huancavelica;Acobamba;0902XX
+Huancavelica;Angaraes;0903XX
+Huancavelica;Castrovirreyna;0904XX
+Huancavelica;Churcampa;0905XX
+Huancavelica;Huaytará;0906XX
+Huancavelica;Tayacaja;0907XX
+Huánuco;Huánuco;1001XX
+Huánuco;Ambo;1002XX
+Huánuco;Dos;1003XX
+Huánuco;Huacaybamba;1004XX
+Huánuco;Huamalíes;1005XX
+Huánuco;Leoncio;1006XX
+Huánuco;Marañón;1007XX
+Huánuco;Pachitea;1008XX
+Huánuco;Puerto;1009XX
+Huánuco;Lauricocha;1010XX
+Huánuco;Yarowilca;1011XX
+Ica;Ica;1101XX
+Ica;Chincha;1102XX
+Ica;Nasca;1103XX
+Ica;Palpa;1104XX
+Ica;Pisco;1105XX
+Junín;Huancayo;1201XX
+Junín;Concepción;1202XX
+Junín;Chanchamayo;1203XX
+Junín;Jauja;1204XX
+Junín;Junín;1205XX
+Junín;Satipo;1206XX
+Junín;Tarma;1207XX
+Junín;Yauli;1208XX
+Junín;Chupaca;1209XX
+La Libertad;Trujillo;1301XX
+La Libertad;Ascope;1302XX
+La Libertad;Bolívar;1303XX
+La Libertad;Chepén;1304XX
+La Libertad;Julcán;1305XX
+La Libertad;Otuzco;1306XX
+La Libertad;Pacasmayo;1307XX
+La Libertad;Pataz;1308XX
+La Libertad;Sánchez Carrión;1309XX
+La Libertad;Santiago de Chuco;1310XX
+La Libertad;Gran Chimú;1311XX
+La Libertad;Virú;1312XX
+Lambayeque;Chiclayo;1401XX
+Lambayeque;Ferreñafe;1402XX
+Lambayeque;Lambayeque;1403XX
+Lima;Lima;1501XX
+Lima;Barranca;1502XX
+Lima;Cajatambo;1503XX
+Lima;Canta;1504XX
+Lima;Cañete;1505XX
+Lima;Huaral;1506XX
+Lima;Huarochirí;1507XX
+Lima;Huaura;1508XX
+Lima;Oyón;1509XX
+Lima;Yauyos;1510XX
+Loreto;Maynas;1601XX
+Loreto;Alto;1602XX
+Loreto;Loreto;1603XX
+Loreto;Mariscal;1604XX
+Loreto;Requena;1605XX
+Loreto;Ucayali;1606XX
+Loreto;Datem;1607XX
+Loreto;Putumayo;1608XX
+Madre;Dios;1701XX
+Madre;Dios;1702XX
+Madre;Dios;1703XX
+Moquegua;Mariscal;1801XX
+Moquegua;General;1802XX
+Moquegua;Ilo;1803XX
+Pasco;Pasco;1901XX
+Pasco;Daniel;1902XX
+Pasco;Oxapampa;1903XX
+Piura;Piura;2001XX
+Piura;Ayabaca;2002XX
+Piura;Huancabamba;2003XX
+Piura;Morropón;2004XX
+Piura;Paita;2005XX
+Piura;Sullana;2006XX
+Piura;Talara;2007XX
+Piura;Sechura;2008XX
+Puno;Puno;2101XX
+Puno;Azángaro;2102XX
+Puno;Carabaya;2103XX
+Puno;Chucuito;2104XX
+Puno;El;2105XX
+Puno;Huancané;2106XX
+Puno;Lampa;2107XX
+Puno;Melgar;2108XX
+Puno;Moho;2109XX
+Puno;San;2110XX
+Puno;San;2111XX
+Puno;Sandia;2112XX
+Puno;Yunguyo;2113XX
+San Martin;Moyobamba;2201XX
+San Martin;Bellavista;2202XX
+San Martin;El Dorado;2203XX
+San Martin;Huallaga;2204XX
+San Martin;Lamas;2205XX
+San Martin;Mariscal Cáceres;2206XX
+San Martin;Picota;2207XX
+San Martin;Rioja;2208XX
+San Martin;San Martín;2209XX
+San Martin;Tocache;2210XX
+Tacna;Tacna;2301XX
+Tacna;Candarave;2302XX
+Tacna;Jorge;2303XX
+Tacna;Tarata;2304XX
+Tumbes;Tumbes;2401XX
+Tumbes;Contralmirante;2402XX
+Tumbes;Zarumilla;2403XX
+Ucayali;Coronel;2501XX
+Ucayali;Atalaya;2502XX
+Ucayali;Padre;2503XX
+Ucayali;Purús;2504XX
